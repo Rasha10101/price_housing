@@ -29,7 +29,7 @@ Exploratory Data Analysis (EDA): Visualizes relationships between different feat
 Findings: Highlights factors with the most substantial impact on housing prices, visualized through plots.
 Example Visual
 
-Replace path_to_image/house_prices_distribution.png with the actual path where your image is stored.
+Replace path_to_image/price_housing.jpg.png with the actual path where your image is stored.
 
 Results
 The analysis found that factors such as location, square footage, and the number of bedrooms are among the strongest predictors of house price variations.
