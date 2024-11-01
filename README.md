@@ -18,6 +18,7 @@ To run this project, you will need to install the following dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn
 
+
 Usage
 Clone the repository or download the notebook file.
 Install the dependencies listed above.
@@ -32,4 +33,6 @@ Replace path_to_image/house_prices_distribution.png with the actual path where y
 
 Results
 The analysis found that factors such as location, square footage, and the number of bedrooms are among the strongest predictors of house price variations.
+
+
 
