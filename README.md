@@ -53,6 +53,6 @@ This analysis was conducted by [Rasha Alzaher]. Feel free to reach out with ques
 
 # House Prices Impact Analysis
 
-![House Prices Impact Analysis](house price.png)
+![House Prices Impact Analysis](https://github.com/Rasha10101/price_housing/blob/main/house%20price.png)
 
 This Jupyter Notebook provides an in-depth analysis of the factors impacting house prices...
